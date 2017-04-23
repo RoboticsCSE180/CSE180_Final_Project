@@ -1,0 +1,8 @@
+prefix=/home/armando/Desktop/Project/CSE180_Final_Project/devel
+
+Name: husky_gazebo
+Description: Description of husky_gazebo
+Version: 0.2.6
+Cflags: 
+Libs: -L/home/armando/Desktop/Project/CSE180_Final_Project/devel/lib 
+Requires: 

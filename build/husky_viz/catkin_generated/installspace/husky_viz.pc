@@ -1,0 +1,8 @@
+prefix=/home/armando/Desktop/Project/CSE180_Final_Project/install
+
+Name: husky_viz
+Description: Description of husky_viz
+Version: 0.2.2
+Cflags: 
+Libs: -L/home/armando/Desktop/Project/CSE180_Final_Project/install/lib 
+Requires: 

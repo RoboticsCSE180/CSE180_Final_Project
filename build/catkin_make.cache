@@ -1,0 +1,2 @@
+cse180final:husky_packages/husky_control:husky_packages/husky_description:husky_packages/husky_desktop:husky_packages/husky_gazebo:husky_packages/husky_msgs:husky_packages/husky_navigation:husky_packages/husky_simulator:husky_packages/husky_ur5_moveit_config:husky_packages/husky_viz
+-DCATKIN_DEVEL_PREFIX=/home/armando/Desktop/Project/CSE180_Final_Project/devel -DCMAKE_INSTALL_PREFIX=/home/armando/Desktop/Project/CSE180_Final_Project/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/armando/Desktop/Project/CSE180_Final_Project/devel
+
+Name: cse180final
+Description: Description of cse180final
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/armando/Desktop/Project/CSE180_Final_Project/devel/lib 
+Requires: 
